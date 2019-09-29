@@ -1,11 +1,7 @@
 # amex_credit_card_coupons_prediction 
-[Link To Competition](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/?utm_source=auto-email)
-Amex Credit Card Coupon Prediction
 
 Dataset Description
 Here is the schema for the different data tables available. The detailed data dictionary is provided next.
-
-[[https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/09/Screenshot-2019-09-28-at-8.58.32-PM.png|alt=first]]
 
 You are provided with the following files in train.zip:
 
@@ -77,3 +73,9 @@ test.csv: Contains the coupon customer combination for which redemption status i
 | customer_id |	Unique id for a customer |
 
 *Campaign, coupon and customer data for test set is also contained in train.zip 
+
+
+
+[Link To Competition](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/?utm_source=auto-email)
+
+![structure of dataset](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/09/Screenshot-2019-09-28-at-8.58.32-PM.png)
