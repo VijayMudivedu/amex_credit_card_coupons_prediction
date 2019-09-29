@@ -27,6 +27,7 @@ train.csv: Train data containing the coupons offered to the given customers unde
 *coupon_item_mapping.csv:* Mapping of coupon and items valid for discount under that coupon
 
 | Variable |	Definition |
+|----------|------------|
 | coupon_id |	Unique id for a discount coupon (no order)|
 | item_id |	Unique id for items for which given coupon is valid (no order) |
 
